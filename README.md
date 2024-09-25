@@ -19,12 +19,15 @@ Essentially, the company wants —
 
 ## General Information
 - What is the background of your project?
+  
     A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
 - What is the business probem that your project is trying to solve?
+  
     BoomBikes wants to understand the factors affecting the demand for these shared bikes in the American market to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
 
 - What is the dataset that is being used?
+  
     Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
 
